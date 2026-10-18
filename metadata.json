@@ -1,0 +1,6 @@
+{
+  "name": "Purity's Toy Extravaganza",
+  "description": "A colourful, modern, and magical toy e-commerce store with big smiles and bigger adventures for children and parents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
